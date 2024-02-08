@@ -24,7 +24,7 @@ const prevPerson = () => {
     if(randomNumber === index) {
       randomNumber = index + 1;
     }
-    // setIndex(checkNumber(randomNumber));;
+    // setIndex(checkNumber(randomNumber))
   }
 
   return (<article className='review' >
